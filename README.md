@@ -21,6 +21,9 @@ Once users have added items to their cart, they can proceed to checkout. They wi
 Account Creation
 Users can create an account on the website to save their shipping and payment information for future purchases. They can also view their order history and track their current orders.
 
+## Deployed Link
+https://fluffy-lebkuchen-073415.netlify.app/
+
 ## Installation
 To run the website on your local machine, you will need to clone the repository and open the index.html file in a web browser.
 
